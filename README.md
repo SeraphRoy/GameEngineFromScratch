@@ -1,2 +1,2 @@
 # GameEngineFromScratch
-配合netwarm007知乎专栏写的项目 https://zhuanlan.zhihu.com/c_119702958
+Follow [netwarm007](https://github.com/netwarm007)'s [Zhihu article](https://zhuanlan.zhihu.com/c_119702958) that writes a game engine from scratch
